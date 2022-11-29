@@ -31,7 +31,7 @@ body {
     display: flex;
   }
   .main-container__background-section {
-    background-image: url("../images/bg-main-desktop.png");
+    background-image: url("../images/Bg-main-desktop.png");
     width: 500px;
     height: 100vh;
   }

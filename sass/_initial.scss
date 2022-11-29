@@ -1,0 +1,16 @@
+//esto es un partial en scss, parte del codigo pero separado en otra hoja
+@use 'variables';
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    font-family: variables.$font;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: variables.$White;
+    
+}

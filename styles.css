@@ -17,7 +17,7 @@ body {
   margin: auto;
 }
 .main-container__background-section {
-  background-image: url("https://angelussz.github.io/InteractiveCreditCard/images/bg-main-mobile.png");
+  background-image: url("./images/bg-main-mobile.png");
   background-repeat: no-repeat;
   height: 240px;
   position: relative;
@@ -31,7 +31,7 @@ body {
     display: flex;
   }
   .main-container__background-section {
-    background-image: url("../images/Bg-main-desktop.png");
+    background-image: url("./images/Bg-main-desktop.png");
     width: 500px;
     height: 100vh;
   }
@@ -42,7 +42,7 @@ body {
   height: 160px;
   color: hsl(0deg, 0%, 100%);
   padding: 20px;
-  background-image: url("../images/bg-card-front.png");
+  background-image: url("./images/bg-card-front.png");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -96,7 +96,7 @@ body {
   height: 160px;
   color: hsl(0deg, 0%, 100%);
   padding: 20px;
-  background-image: url("../images/bg-card-back.png");
+  background-image: url("./images/bg-card-back.png");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
